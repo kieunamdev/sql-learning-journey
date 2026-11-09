@@ -51,7 +51,7 @@ sql-learning-journey/
 ## 📚 Nguồn học
 
 - [SQLBolt](https://sqlbolt.com/)
-- [Mode SQL Tutorial](https://mode.com/sql-tutorial/)
+- [NEON SQL Tutorial](https://neon.com/postgresql/tutorial)
 - [LeetCode - SQL 50](https://leetcode.com/studyplan/top-sql-50/)
 - [PostgreSQL Documentation](https://www.postgresql.org/docs/)
 
