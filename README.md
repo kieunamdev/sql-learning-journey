@@ -24,17 +24,14 @@ Repo lưu lại quá trình học **SQL** từ cơ bản đến nâng cao, phụ
 ## 📂 Cấu trúc thư mục
 
 ```
-sql-learning-journey/
-├── data/                     
-├── 01-basics/                 
-├── 02-aggregation/       
-├── 03-joins/                 
-├── 04-subqueries-cte/        
-├── 05-window-functions/      
-├── 06-ddl-dml/               
-├── 07-indexing-performance/  
-├── 08-projects/              
-└── notes/                    
+sql-learning/
+├── data
+├── week-01-basic-joins/
+├── week-02-aggregation/
+├── week-03-subquery-cte-dml/
+├── week-04-window-functions/
+├── week-05-schema-index-explain/
+└── week-06-mini-project/
 ```
 
 ## 📈 Tiến độ
